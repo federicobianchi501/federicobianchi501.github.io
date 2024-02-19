@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Federico Bianchi"
 title_separator          : "Doctor of Philosophy - Ph.D, Computer Science (Artificial Intelligence)"
-name                     : &name "Your Name"
+name                     : &name "Federico Bianchi"
 description              : &description "personal description"
 url                      : https://federicobianchi501.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "federicobianchi501/federicobianchi501.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Federico Bianchi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Doctor of Philosophy - Ph.D, Computer Science (Artificial Intelligence)"
+  location         : ""
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "federicobianchi501@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
