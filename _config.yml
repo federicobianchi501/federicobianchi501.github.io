@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Federico Bianchi"
-title_separator          : "Doctor of Philosophy - Ph.D, Artificial Intelligence"
+title_separator          : "Doctor of Philosophy - Ph.D Artificial Intelligence"
 name                     : &name "Federico Bianchi"
 description              : &description "personal description"
 url                      : https://federicobianchi501.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Federico Bianchi"
   pronouns         : # example: "she/her"  
-  bio              : "Doctor of Philosophy - Ph.D, Artificial Intelligence"
+  bio              : "Doctor of Philosophy - Ph.D Artificial Intelligence"
   location         : ""
   employer         : "University of Verona"
   uri              : # URL
