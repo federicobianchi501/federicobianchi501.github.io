@@ -25,7 +25,7 @@ author:
   name             : "Federico Bianchi"
   pronouns         : # example: "she/her"  
   bio              : "Doctor of Philosophy - Ph.D Artificial Intelligence"
-  location         : ""
+  # location         : ""
   employer         : "University of Verona"
   uri              : # URL
   email            : "federicobianchi501@gmail.com" 
