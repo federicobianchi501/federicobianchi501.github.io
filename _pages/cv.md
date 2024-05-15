@@ -18,25 +18,25 @@ redirect_from:
 **Academic and Professional History**
 
 * Temporary Research Fellow, Department of Computer Science (University of Verona, IT), 2020 - 2021 
-Research fellowship: [Regione del Veneto]([https://www.regione.veneto.it/]), POR/FESR European Regional Development Fund 2014-2020. Work Program of the Veneto Region through the project titled [SAFEPLACE - IoT systems for healthy and safe living environments]([https://www.ict4ssl.com/en/progetto-safe-place-en/])
+Research fellowship: [Regione del Veneto](https://www.regione.veneto.it/), POR/FESR European Regional Development Fund 2014-2020. Work Program of the Veneto Region through the project titled [SAFEPLACE - IoT systems for healthy and safe living environments](https://www.ict4ssl.com/en/progetto-safe-place-en/)
 
 
 * Temporary Research Fellow, Department of Computer Science (University of Verona, IT), 2018 - 2020 
-Research fellowship: [Regione del Veneto]([https://www.regione.veneto.it/]), POR/FESR European Regional Development Fund 2014-2020. Work Program of the Veneto Region through the project titled [GHOTEM - Global House Thermal and Electrical Energy Management]([[https://www.ict4ssl.com/en/progetto-safe-place-en/](https://www.di.univr.it/?ent=progetto&id=5233&lang=en)])
+Research fellowship: [Regione del Veneto](https://www.regione.veneto.it/), POR/FESR European Regional Development Fund 2014-2020. Work Program of the Veneto Region through the project titled [GHOTEM - Global House Thermal and Electrical Energy Management](https://www.di.univr.it/?ent=progetto&id=5233&lang=en)
 
 **Projects**
 * Researcher & Software Engineer, Department of Computer Science (University of Verona, IT), 2020 - 2021
-Project: [SAFEPLACE - IoT systems for healthy and safe living environments]([https://www.ict4ssl.com/en/progetto-safe-place-en/])
+Project: [SAFEPLACE - IoT systems for healthy and safe living environments](https://www.ict4ssl.com/en/progetto-safe-place-en/)
 
 * Researcher & Software Engineer, Department of Computer Science (University of Verona, IT), 2020 - 2021
-Project: [GHOTEM - Global House Thermal and Electrical Energy Management]([[https://www.ict4ssl.com/en/progetto-safe-place-en/](https://www.di.univr.it/?ent=progetto&id=5233&lang=en)])
+Project: [GHOTEM - Global House Thermal and Electrical Energy Management](https://www.di.univr.it/?ent=progetto&id=5233&lang=en)
 
 **Awards**
-* Ph.D. fellowship: [Leonardo S.p.A.]([https://www.leonardo.com/en/home]), 2021
+* Ph.D. fellowship: [Leonardo S.p.A.](https://www.leonardo.com/en/home), 2021
   
-* Ph.D. fellowship: [Regione del Veneto]([[https://www.leonardo.com/en/home](https://www.regione.veneto.it/)]), 2020
+* Research fellowship: [SAFEPLACE - IoT systems for healthy and safe living environments](https://www.ict4ssl.com/en/progetto-safe-place-en/), 2020
 
-* Ph.D. fellowship: [Regione del Veneto]([[https://www.leonardo.com/en/home](https://www.regione.veneto.it/)]), 2018
+* Research fellowship: [GHOTEM - Global House Thermal and Electrical Energy Management](https://www.di.univr.it/?ent=progetto&id=5233&lang=en), 2018
 
 **Publications**
 ======
