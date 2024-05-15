@@ -23,6 +23,6 @@ Moreover, an analysis of the parameters of the selected models enabled
 to identify a few informative variables.'
 date: 2020
 venue: 'The 4th International Conference on Machine Learning, Optimization, and Data Science (LOD)'
-paperurl: 'http://academicpages.github.io/files/LOD2019.pdf'
+paperurl: 'https://federicobianchi501.github.io/files/LOD2019.pdf'
 citation: 'Federico Bianchi, Alberto Castellini, Pietro Tarocco, Alessandro Farinelli. (2020). &quot;Load Forecasting in District Heating Networks: Model Comparison on a Real-World Case Study.&quot; <i>The 4th International Conference on Machine Learning, Optimization, and Data Science (LOD)</i>. 1(1).'
 ---
