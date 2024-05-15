@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science (Artificial Intelligence), Department of Computer Science (University of Verona, IT) and Leonardo S.p.A., 2025 (expected)
+* M.S. in Computer Science and Engineering, University of Verona, 2018
+* B.S. in Computer Science, University of Verona, 2016
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Academic and Professional History**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Temporary Research Fellow, Department of Computer Science (University of Verona, IT), 2020 - 2021 
+Research fellowship: [Regione del Veneto]([https://www.regione.veneto.it/]), POR/FESR European Regional Development Fund 2014-2020. Work Program of the Veneto Region through the project titled [SAFEPLACE - IoT systems for healthy and safe living environments]([https://www.ict4ssl.com/en/progetto-safe-place-en/])
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* Temporary Research Fellow, Department of Computer Science (University of Verona, IT), 2018 - 2020 
+Research fellowship: [Regione del Veneto]([https://www.regione.veneto.it/]), POR/FESR European Regional Development Fund 2014-2020. Work Program of the Veneto Region through the project titled [GHOTEM - Global House Thermal and Electrical Energy Management]([[https://www.ict4ssl.com/en/progetto-safe-place-en/](https://www.di.univr.it/?ent=progetto&id=5233&lang=en)])
+
+**Projects**
+* Researcher & Software Engineer, Department of Computer Science (University of Verona, IT), 2020 - 2021
+Project: [SAFEPLACE - IoT systems for healthy and safe living environments]([https://www.ict4ssl.com/en/progetto-safe-place-en/])
+
+* Researcher & Software Engineer, Department of Computer Science (University of Verona, IT), 2020 - 2021
+Project: [GHOTEM - Global House Thermal and Electrical Energy Management]([[https://www.ict4ssl.com/en/progetto-safe-place-en/](https://www.di.univr.it/?ent=progetto&id=5233&lang=en)])
+
+**Awards**
+* Ph.D. fellowship: [Leonardo S.p.A.]([https://www.leonardo.com/en/home]), 2021
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D. fellowship: [Regione del Veneto]([[https://www.leonardo.com/en/home](https://www.regione.veneto.it/)]), 2020
+
+* Ph.D. fellowship: [Regione del Veneto]([[https://www.leonardo.com/en/home](https://www.regione.veneto.it/)]), 2018
 
 Publications
 ======
