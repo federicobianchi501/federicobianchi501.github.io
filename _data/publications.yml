@@ -1,0 +1,96 @@
+- year: All Publications (^ indicates equal contribution)
+  pubs:
+
+- year: 2024
+  pubs:
+
+  - title: "Scalable Safe Policy Improvement for Factored multi-agent MDPs"
+    team: "True"
+    description: "The 41th International Conference on Machine Learning (ICML)"
+    authors:
+      Federico Bianchi, Edoardo Zorzi, Alberto Castellini, Thiago D. Simão, Matthijs T. J. Spaan, Alessandro Farinelli
+    link:
+      url:
+      display: The 41th International Conference on Machine Learning (ICML)
+      
+  - title: "Developing safe and explainable autonomous agents:\\ from simulation to the real world"
+    team: "True"
+    description: "The 4th National Conference on Artificial Intelligence (Ital-IA)"
+    authors:
+      Federico Bianchi, Alberto Castellini, Alessandro Farinelli1, Luca Marzari1, Daniele Meli1, Francesco Trotti, Celeste Veronese
+    link:
+      url:
+      display: The 4th National Conference on Artificial Intelligence (Ital-IA)
+      
+- year: 2023
+  pubs:
+  
+  - title: "Scalable Safe Policy Improvement via Monte Carlo Tree Search"
+    team: "True"
+    description: "The 40th International Conference on Machine Learning (ICML)"
+    authors:
+      Alberto Castellini, Federico Bianchi^, Edoardo Zorzi^, Thiago D. Simão, Alessandro Farinelli, Matthijs T. J. Spaan
+    link:
+      url:
+      display: The 40th International Conference on Machine Learning (ICML)
+
+  - title: "Monte Carlo Tree Search Planning for continuous action and state space"
+    team: "True"
+    description: "The 9th Italian Workshop on Artificial Intelligence and Robotics (AIRO 2022), AI*IA 2022"
+    authors:
+      Alberto Castellini, Federico Bianchi^, Edoardo Zorzi^, Thiago D. Simão, Alessandro Farinelli, Matthijs T. J. Spaan
+    link:
+      url:
+      display: The 9th Italian Workshop on Artificial Intelligence and Robotics (AIRO 2022), AI*IA 2022
+
+  - title: "Safe and Efficient Reinforcement Learning for Environmental Monitoring"
+    team: "True"
+    description: "The 3rd National Conference on Artificial Intelligence, CEUR Workshop Proceedings AI*IA Series"
+    authors:
+      Federico Bianchi, Davide Corsi, Luca Marzari, Daniele Meli, Francesco Trotti, Maddalena Zuccotto, Alberto Castellini, Alessandro Farinelli
+    link:
+      url:
+      display: The 3rd National Conference on Artificial Intelligence (Ital-IA)
+      
+- year: 2021
+  pubs:
+  
+  - title: "XM HeatForecast: Heating Load Forecasting in Smart District Heating Networks"
+    team: "True"
+    description: "The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)"
+    authors:
+      Federico Bianchi, Francesco Masillo, Alberto Castellini, Alessandro Farinelli
+    link:
+      url:
+      display: The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)
+      
+  - title: "Convolutional Neural Network and Stochastic Variational Gaussian Process for Heating Load Forecasting"
+    team: "True"
+    description: "The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)"
+    authors:
+      Federico Bianchi, Pietro Tarocco, Alberto Castellini, Alessandro Farinelli
+    link:
+      url:
+      display: The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)
+
+- year: 2020
+  pubs:
+  
+    - title: "Predictive model generation for load forecasting in district heating networks"
+    team: "True"
+    description: "IEEE Intelligent Systems, IEEE"
+    authors:
+      Alberto Castellini, Federico Bianchi, Alessandro Farinelli
+    link:
+      url:
+      display: IEEE Intelligent Systems, IEEE
+  
+  - title: "Load Forecasting in District Heating Networks: Model Comparison on a Real-World Case Study"
+    team: "True"
+    description: "The 4th International Conference on Machine Learning, Optimization, and Data Science (LOD)"
+    authors:
+      Federico Bianchi, Alberto Castellini, Pietro Tarocco, Alessandro Farinelli
+    link:
+      url:
+      display: The 4th International Conference on Machine Learning, Optimization, and Data Science (LOD)
+ 
