@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
 * Ph.D in Computer Science (Artificial Intelligence), Department of Computer Science (University of Verona, IT) and Leonardo S.p.A., 2025 (expected)
 * M.S. in Computer Science and Engineering, University of Verona, 2018
@@ -38,24 +38,19 @@ Project: [GHOTEM - Global House Thermal and Electrical Energy Management]([[http
 
 * Ph.D. fellowship: [Regione del Veneto]([[https://www.leonardo.com/en/home](https://www.regione.veneto.it/)]), 2018
 
-Publications
+**Publications**
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+**Talks**
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+**Teaching**
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Tutoring for the Artificial Intelligence Master's Degree program at the University of Verona, 2024
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
