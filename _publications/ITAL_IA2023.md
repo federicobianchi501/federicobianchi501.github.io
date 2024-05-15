@@ -13,7 +13,7 @@ believe that the proposed techniques can be used to overcome some limitations of
 complex and urgent problems.'
 date: 2023
 venue: 'The 3rd National Conference on Artificial Intelligence (Ital-IA)'
-paperurl: 'http://academicpages.github.io/files/ITAL_IA2023.pdf'
+paperurl: 'https://federicobianchi501.github.io/files/ITAL_IA2023.pdf'
 citation: 'Federico Bianchi, Davide Corsi, Luca Marzari, Daniele Meli, Francesco Trotti, Maddalena Zuccotto, Alberto Castellini, Alessandro Farinelli. (2023). &quot;Safe and Efficient Reinforcement Learning for Environmental Monitoring.&quot; <i>The 3rd National Conference on Artificial Intelligence (Ital-IA)</i>. 1(1).'
 ---
 
