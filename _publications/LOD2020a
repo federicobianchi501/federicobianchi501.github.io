@@ -19,6 +19,6 @@ updated every 24 hours, while predictions of load in the next 48 hours
 are performed every hour'
 date: 2021
 venue: 'The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)'
-paperurl: 'http://academicpages.github.io/files/LOD2020a.pdf'
+paperurl: 'https://federicobianchi501.github.io/files/LOD2020a.pdf'
 citation: 'Federico Bianchi, Francesco Masillo, Alberto Castellini, Alessandro Farinelli. (2021). &quot;XM HeatForecast: Heating Load Forecasting in Smart District Heating Networks.&quot; <i>The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)</i>. 1(3).'
 ---
