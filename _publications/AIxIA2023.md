@@ -10,7 +10,7 @@ based on Monte Carlo Tree Search planning in continuous state/action spaces and 
 of a new algorithm based on action widening. Algorithms are evaluated on a synthetic domain in which
 the agent aims to control a car through a narrow curve for reaching the goal in the shortest possible
 time and avoiding the car going off the road. We show that the proposed method outperforms the
-state-of-the-art techniques..'
+state-of-the-art techniques.'
 date: 2023
 venue: 'The 9th Italian Workshop on Artificial Intelligence and Robotics (AIRO 2022), AI*IA 2022'
 paperurl: 'http://academicpages.github.io/files/AIxIA2023.pdf'
