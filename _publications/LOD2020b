@@ -19,6 +19,6 @@ updated every 24 hours, while predictions of load in the next 48 hours
 are performed every hour'
 date: 2021
 venue: 'The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)'
-paperurl: 'http://academicpages.github.io/files/LOD2020b.pdf'
+paperurl: 'https://federicobianchi501.github.io/files/LOD2020b.pdf'
 citation: 'Federico Bianchi, Pietro Tarocco, Alberto Castellini, Alessandro Farinelli. (2021). &quot;Convolutional Neural Network and Stochastic Variational Gaussian Process for Heating Load Forecasting.&quot; <i>The 5th International Conference on Machine Learning, Optimization, and Data Science (LOD)</i>. 1(3).'
 ---
