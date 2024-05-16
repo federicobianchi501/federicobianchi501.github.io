@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Federico Bianchi"
-title_separator          : "Federico Bianchi"
+title_separator          : ""
 name                     : &name "Federico Bianchi"
 description              : &description "personal description"
 url                      : https://federicobianchi501.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
