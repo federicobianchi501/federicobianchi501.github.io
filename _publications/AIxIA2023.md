@@ -6,7 +6,7 @@ excerpt: 'Abstract: Sequential decision-making in real-world environments is an 
 date: 2009-10-01
 venue: 'The 9th Italian Workshop on Artificial Intelligence and Robotics (AIRO 2022), AIxIA 2022'
 paperurl: 'https://federicobianchi501.github.io/files/AIxIA2023.pdf'
-citation: 'Federico Bianchi, Lorenzo Bonanni, Alberto Castellini, Alessandro Farinelli. (2023). &quot;Monte Carlo Tree Search Planning for continuous action and state space.&quot; <i>The 9th Italian Workshop on Artificial Intelligence and Robotics (AIRO 2022), AI*IA 2022</i>. 1(9).'
+citation: 'Federico Bianchi, Lorenzo Bonanni, Alberto Castellini, Alessandro Farinelli. (2023). &quot;Monte Carlo Tree Search Planning for continuous action and state space.&quot; <i>The 9th Italian Workshop on Artificial Intelligence and Robotics (AIRO 2022), AI*IA 2022</i>. 1(7).'
 ---
 
 
