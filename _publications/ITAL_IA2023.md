@@ -6,7 +6,7 @@ excerpt: 'Abstract: This paper discusses the challenges of applying reinforcemen
 date: 2009-10-01
 venue: 'The 3rd National Conference on Artificial Intelligence (Ital-IA)'
 paperurl: 'https://federicobianchi501.github.io/files/ITAL_IA2023.pdf'
-citation: 'Federico Bianchi, Davide Corsi, Luca Marzari, Daniele Meli, Francesco Trotti, Maddalena Zuccotto, Alberto Castellini, Alessandro Farinelli. (2023). &quot;Safe and Efficient Reinforcement Learning for Environmental Monitoring.&quot; <i>The 3rd National Conference on Artificial Intelligence (Ital-IA)</i>. 1(6).'
+citation: 'Federico Bianchi, Davide Corsi, Luca Marzari, Daniele Meli, Francesco Trotti, Maddalena Zuccotto, Alberto Castellini, Alessandro Farinelli. (2023). &quot;Safe and Efficient Reinforcement Learning for Environmental Monitoring.&quot; <i>The 3rd National Conference on Artificial Intelligence (Ital-IA)</i>.'
 ---
 
 
