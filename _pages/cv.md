@@ -44,13 +44,4 @@ Project: [GHOTEM - Global House Thermal and Electrical Energy Management](https:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-**Talks**
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-**Teaching**
-======
-* Tutoring for the Artificial Intelligence Master's Degree program at the University of Verona, 2024
   
