@@ -17,6 +17,9 @@ author_profile: true
 * [Scalable Safe Policy Improvement via Monte Carlo Tree Search](https://federicobianchi501.github.io/files/ICML2023.pdf). Alberto Castellini, Federico Bianchi*, Edoardo Zorzi*, Thiago D. Simão, Alessandro Farinelli, Matthijs T. J. Spaan. In Proceedings of the 40th International Conference on Machine Learning (ICML 2023), pages 3732–3756. PMLR, 2023
 * [Monte Carlo Tree Search Planning for continuous action and state space](https://federicobianchi501.github.io/files/AIxIA2023.pdf). Federico Bianchi, Lorenzo Bonanni, Alberto Castellini, Alessandro Farinelli. In Proceedings of the 9th Italian Workshop on Artificial Intelligence and Robotics (AIRO 2022), AI*IA 2022, volume 3417 of CEUR Workshop Proceedings, pages 38–47. CEUR-WS.org, 2023
 * [Safe and Efficient Reinforcement Learning for Environmental Monitoring](https://federicobianchi501.github.io/files/AIxIA2023.pdf). Federico Bianchi, Davide Corsi, Luca Marzari, Daniele Meli, Francesco Trotti, Maddalena Zuccotto, Alberto Castellini, Alessandro Farinelli. The 3rd National Conference on Artificial Intelligence (Ital-IA)
+
+**2022**
+* [Generation and interpretation of parsimonious predictive models for load forecasting in smart heating networks](https://federicobianchi501.github.io/files/IntelligentSystems2022.pdf). Alberto Castellini, Federico Bianchi, Alessandro Farinelli. Applied Intelligence, Springer Nature, 2022
   
 **2021**
 * [XM HeatForecast: Heating Load Forecasting in Smart District Heating Networks](https://federicobianchi501.github.io/files/LOD2020a.pdf). Federico Bianchi, Francesco Masillo, Alberto Castellini, Alessandro Farinelli. LOD 2020 - The Fifth International Conference on Machine Learning, Optimization, and Data Science, July 19-23, 2020 - Certosa di Pontignano, Siena, Italy, Lecture Notes in Computer Science, volume 12514, pages 581-592, Springer-Verlag, 2021
