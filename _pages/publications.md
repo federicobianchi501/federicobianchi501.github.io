@@ -24,18 +24,3 @@ You can also find my publications on my <u><a href="{{author.googlescholar}}"> G
 * [Predictive model generation for load forecasting in district heating networks](https://federicobianchi501.github.io/files/IEEE2020.pdf). Alberto Castellini, Federico Bianchi, Alessandro Farinelli. IEEE Intelligent Systems, IEEE, 36(4):86-95, 2020
 * [Load Forecasting in District Heating Networks: Model Comparison on a Real-World Case Study](https://federicobianchi501.github.io/files/LOD2019.pdf). Federico Bianchi, Alberto Castellini, Pietro Tarocco, Alessandro Farinelli. In LOD 2019 - The Fifth International Conference on Machine Learning, Optimization, and Data Science, September 10-13, 2019 - Certosa di Pontignano, Siena, Italy, Lecture Notes in Computer Science, volume 11943, pages 553-565, Springer-Verlag, 2020
   
-{% for yr in site.data.publist %}
-<h3>{{ yr.year }}</h3>
------
-{% for publi in yr.pubs %}
-
-{% if publi.team=="NA" %}
-  <b style="color:blue;"> <u> [{{ publi.link.display }}] </u> </b> &nbsp;
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }} 
-{% else %}
- <b>[{{ publi.link.display }}] </b> &nbsp;
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }}
-{% endif %}
-
-{% endfor %}
-{% endfor %}
