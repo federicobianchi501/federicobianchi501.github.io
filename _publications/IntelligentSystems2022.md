@@ -6,7 +6,7 @@ excerpt: 'Abstract: Forecasting future heat load in smart district heating netwo
 date: 2009-10-01
 venue: 'Applied Intelligence, Springer Nature, 2022'
 paperurl: 'https://federicobianchi501.github.io/files/IntelligentSystems2022.pdf'
-citation: 'Alberto Castellini, Federico Bianchi, Alessandro Farinelli. (2023). &quot;Generation and interpretation of parsimonious predictive models for load forecasting in smart heating networks.&quot; <i>Applied Intelligence, Springer Nature, 2022</i>. 1(4).'
+citation: 'Alberto Castellini, Federico Bianchi, Alessandro Farinelli. (2023). &quot;Generation and interpretation of parsimonious predictive models for load forecasting in smart heating networks.&quot; <i>Applied Intelligence, Springer Nature, 2022</i>. 1(6).'
 ---
 
 
