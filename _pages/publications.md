@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my <u><a href="{{author.googlescholar}}"> Google Scholar</a></u> profile.
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my publications on my <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 **2024**
 * Scalable Safe Policy Improvement for Factored multi-agent MDPs. Federico Bianchi, Edoardo Zorzi, Alberto Castellini, Thiago D. Simão, Matthijs T. J. Spaan, Alessandro Farinelli. In Proceedings of the 41th International Conference on Machine Learning (ICML 2024), pages 22. PMLR, 2024
